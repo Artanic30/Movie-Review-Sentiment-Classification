@@ -1,0 +1,7 @@
+sentence-transformers
+nltk~=3.6.2
+top2vec
+bertopic
+bertopic[gensim]
+pandas~=1.0.4
+gensim~=3.8.3
